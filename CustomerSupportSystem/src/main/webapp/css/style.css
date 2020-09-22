@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: threedshadow;
+	color: white;
+}
+
+table {
+	border-collapse: collapse;
+	border-color: white align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, th, td {
+	border: 1px solid white;
+	padding: 15px;
+	text-align: center;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
